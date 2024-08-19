@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-subburaj&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-subburaj" /> </p>
 
-- 🛠️ Expertise & Interests
+🛠️ Expertise & Interests
 
 - **Automation Testing & Quality Assurance**: Extensive experience in designing, developing, and executing automated tests using tools like **Selenium** and **Power Automate**. My work ensures robust, reliable software systems that meet business requirements.
 
