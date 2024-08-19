@@ -5,11 +5,11 @@
 
 🛠️ Expertise & Interests
 
-- **Automation Testing & Quality Assurance**: Extensive experience in designing, developing, and executing automated tests using tools like **Selenium** and **Power Automate**. My work ensures robust, reliable software systems that meet business requirements.
+- **Automation Testing & Quality Assurance**: Extensive experience in designing, developing, and executing automated tests using tools like **Selenium**. My work ensures robust, reliable software systems that meet business requirements.
 
 - **AI/ML & Data Science**: Actively working on hands-on projects in **AI/ML** and **Data Science**, applying my knowledge in real-world scenarios. 
 
-- **SAP**: Currently developing my skills in **SAP**, with a focus on integrating and migrating data to optimize business processes. My role involves end-to-end management of data migration projects, ensuring seamless transitions and data integrity.
+- **SAP**: Currently developing my skills in **SAP**, with a focus on AI and trending technologies integration.
 
 ## 💼 Professional Experience
 
