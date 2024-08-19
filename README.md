@@ -1,11 +1,43 @@
 <h1 align="center">Hi 👋, I'm Balaji Subburaj</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a passionate **M.Sc. Digital Engineering** student with experience in Manual and Automation Testing projects on Cloud technologies, Web applications, Data migration and Big data. Currently focusing on AI/ML and SAP.</h3>
+<h3 align="center">Welcome to my GitHub profile! I am a passionate M.Sc. Digital Engineering student with experience in Manual and Automation Testing projects on Cloud technologies, Web applications, Data migration and Big data. Currently focusing on AI/ML and SAP projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-subburaj&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-subburaj" /> </p>
 
-- 🔭 I’m currently working on **AI/ML Projects**
+- 🛠️ Expertise & Interests
 
-- 🌱 I’m currently learning **AI, ML and SAP**
+- **Automation Testing & Quality Assurance**: Extensive experience in designing, developing, and executing automated tests using tools like **Selenium** and **Power Automate**. My work ensures robust, reliable software systems that meet business requirements.
+
+- **AI/ML & Data Science**: Actively working on hands-on projects in **AI/ML** and **Data Science**, applying my knowledge in real-world scenarios. 
+
+- **SAP**: Currently developing my skills in **SAP**, with a focus on integrating and migrating data to optimize business processes. My role involves end-to-end management of data migration projects, ensuring seamless transitions and data integrity.
+
+## 💼 Professional Experience
+
+- **Associate Test Analyst at Cognizant Technology Solutions (Oct 2023 – Mar 2024)**: Led the end-to-end testing process for data migration projects, focusing on both manual and automated testing methods. Collaborated with cross-functional teams to ensure project success.
+
+- **Programmer Analyst – Junior Test Analyst (Aug 2022 – Sept 2023)**: Engaged in testing and validation of supply chain management systems, contributing to the development of a Microsoft Chat Bot that improved team productivity.
+
+- **Programmer Analyst Trainee (Aug 2021 – Aug 2022)**: Delivered high-quality results in big data projects, mastering tools like **Oracle SQL** and **UNIX commands**. Played a key role in system integration testing across various environments.
+
+## 📚 Education
+
+- **Master of Science in Digital Engineering** - Otto von Guericke University, Magdeburg, Germany (2024 – Present)
+- **Bachelor of Engineering in Mechanical Engineering** - Sri Ramakrishna Engineering College, Tamil Nadu, India (2017 – 2021)
+
+## 🌱 Currently Learning
+
+- Deepening my knowledge in **AI/ML** with a focus on predictive modeling and deployment.
+- Exploring advanced concepts in **SAP** and its applications in business process optimization.
+- Actively improving my **German language** skills to enhance my communication in the international workplace.
+
+## 🛠️ Skills
+
+- **Programming Languages**: Python, Java
+- **Environments**: Eclipse IDE, Jupyter Notebook, Pycharm, VS Code
+- **Analysis/Statistical Tools**: MS Excel (Advanced), Power BI, Adobe Analytics, Minitab
+- **SQL**: Database querying, data manipulation, stored procedures, Data Validation
+- **Cloud & Automation**: Microsoft Azure, Selenium, Power Automate
+- **Languages**: English (C1 Advanced), German (Beginner)
 
 - 💬 Ask me about **Manual and Automation Testing - SIT, Selenium, Java**
 
