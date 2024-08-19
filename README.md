@@ -40,6 +40,7 @@
 - **Languages**: English (C1 Advanced), German (Beginner)
 
 - 💬 Ask me about **Manual and Automation Testing - SIT, Selenium, Java**
+- Automation Projects link (Hands-on and Implementation) - https://github.com/balaji-subburaj/Automation
 
 - 📫 How to reach me **balaji.subburaj17@gmail.com**
 
