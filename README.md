@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-subburaj&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-subburaj" /> </p>
 
 ## 🌱💼 Project Repositories
-- Automation Projects link (Hands-on and Implementation) - https://github.com/balaji-subburaj/Automation
-- Machine Learning, NLP and DL - Ground Zero Projects -
+- Automation Projects link (Hands-on and Implementation) -> https://github.com/balaji-subburaj/Automation
+- Machine Learning, NLP and DL - Ground Zero Projects ->
 - AI/ML/DL New Projects -> Lined up and soon to be uploaded
 - SAP -> Stay Tuned!
 
