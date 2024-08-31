@@ -7,7 +7,7 @@
 - Automation Projects link (Hands-on and Implementation) - https://github.com/balaji-subburaj/Automation
 - Machine Learning, NLP and DL - Ground Zero Projects -
 - AI/ML/DL New Projects -> Lined up and soon to be uploaded
-- SAP -> to be uploaded in near future
+- SAP -> Stay Tuned!
 
 ## 🛠️ Expertise & Interests
 
