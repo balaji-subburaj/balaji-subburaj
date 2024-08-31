@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji Subburaj</h1>
-<h3 align="center">Welcome to my GitHub profile! I am an M.Sc. Digital Engineering student with experience in Software Testing projects (Manual, Automation, API, Big Data Integration, Cloud). I enjoy learning technologies by doing projects.</h3>
+<h3 align="center">Welcome to my GitHub profile! I am an M.Sc. Digital Engineering student at Otto-von-Guericke-University with professional experience in STLC (Manual, Automation, API, Big Data Integration, Cloud). I enjoy learning technologies by doing projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-subburaj&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-subburaj" /> </p>
 
