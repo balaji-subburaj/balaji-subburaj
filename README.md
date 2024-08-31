@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Balaji Subburaj</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a passionate M.Sc. Digital Engineering student with experience in Manual and Automation Testing projects on Cloud technologies, Web applications, Data migration and Big data. Currently focusing on AI/ML and SAP projects.</h3>
+<h3 align="center">Welcome to my GitHub profile! I am an M.Sc. Digital Engineering student with experience in Software Testing projects (Manual, Automation, API, Big Data Integration, Cloud). I enjoy learning technologies by doing projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-subburaj&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-subburaj" /> </p>
 
-🛠️ Expertise & Interests
+## 🌱💼 Project Repositories
+- Automation Projects link (Hands-on and Implementation) - https://github.com/balaji-subburaj/Automation
+- Machine Learning, NLP and DL - Ground Zero Projects -
+- AI/ML/DL New Projects -> Lined up and soon to be uploaded
+- SAP -> to be uploaded in near future
+
+## 🛠️ Expertise & Interests
 
 - **Automation Testing & Quality Assurance**: Extensive experience in designing, developing, and executing automated tests using tools like **Selenium**. My work ensures robust, reliable software systems that meet business requirements.
 
-- **AI/ML & Data Science**: Actively working on hands-on projects in **AI/ML** and **Data Science**, applying my knowledge in real-world scenarios. 
+- **AI/ML/DL**: Actively working on hands-on projects in **AI/ML/DL**, applying my knowledge in real-world scenarios. 
 
 - **SAP**: Currently developing my skills in **SAP**, with a focus on AI and trending technologies integration.
 
@@ -24,23 +30,16 @@
 - **Master of Science in Digital Engineering** - Otto von Guericke University, Magdeburg, Germany (2024 – Present)
 - **Bachelor of Engineering in Mechanical Engineering** - Sri Ramakrishna Engineering College, Tamil Nadu, India (2017 – 2021)
 
-## 🌱 Currently Learning
-
-- Deepening my knowledge in **AI/ML** with a focus on predictive modeling and deployment.
-- Exploring advanced concepts in **SAP** and its applications in business process optimization.
-- Actively improving my **German language** skills to enhance my communication in the international workplace.
-
 ## 🛠️ Skills
 
 - **Programming Languages**: Python, Java
 - **Environments**: Eclipse IDE, Jupyter Notebook, Pycharm, VS Code
 - **Analysis/Statistical Tools**: MS Excel (Advanced), Power BI, Adobe Analytics, Minitab
 - **SQL**: Database querying, data manipulation, stored procedures, Data Validation
+- **DATABASES**: MySQL, Oracle, IBM DB2, MS SQL
 - **Cloud & Automation**: Microsoft Azure, Selenium, Power Automate
-- **Languages**: English (C1 Advanced), German (Beginner)
+- **Languages**: English (C1 Advanced - IETLS 8.0), German (Beginner)
 
-- 💬 Ask me about **Manual and Automation Testing - SIT, Selenium, Java**
-- Automation Projects link (Hands-on and Implementation) - https://github.com/balaji-subburaj/Automation
 
 - 📫 How to reach me **balaji.subburaj17@gmail.com**
 
