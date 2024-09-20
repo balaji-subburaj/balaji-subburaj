@@ -25,7 +25,7 @@ Interested in working on projects that combine these technologies.
 - Programming Languages: Python, Java
 - Machine Learning & Deep Learning: TensorFlow, Keras, Scikit-learn, PyTorch, NLP (Natural Language Processing), OpenCV
 - Data Science Tools: Pandas, NumPy, Matplotlib, Seaborn
-- Cloud & Automation: Microsoft Azure (AI & ML Services), Power Automate, Google Cloud Platform (GCP)
+- Cloud & Automation: Microsoft Azure (AI & ML Services), Power Automate, Selenium, Google Cloud Platform
 - Databases & Querying: MySQL, Oracle, SQL (Advanced), Data Manipulation, Stored Procedures
 - Development Environments: Jupyter Notebook, PyCharm, VS Code, Eclipse IDE
 
