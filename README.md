@@ -1,34 +1,25 @@
 <h1 align="center">Hi 👋, I'm Balaji Subburaj</h1>
-<h3 align="center">Welcome to my GitHub profile! I am an M.Sc. Digital Engineering student at Otto-von-Guericke-University with professional experience in STLC (Manual, Automation, API, Big Data Integration, Cloud). I enjoy learning technologies by doing projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-subburaj&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-subburaj" /> </p>
+<h3 align="center">Welcome to my GitHub profile!</h3>
+I'm an M.Sc. Digital Engineering student at Otto-von-Guericke-University with professional experience in Software Testing Life Cycle. I'm passionate about learning new technologies through projects.
 
-## 🌱💼 Project Repositories
-- Automation Projects link (Hands-on and Implementation) -> https://github.com/balaji-subburaj/Automation
-- Machine Learning, NLP and DL - Ground Zero Projects -> https://github.com/balaji-subburaj/Ground-zero
-- AI/ML/DL New Projects -> Lined up and soon to be uploaded
-- SAP -> Stay Tuned!
+## 🔭 Interests And Focus
+- Machine Learning and Deep Learning
+- Explainable AI (XAI)
+- SAP
 
-## 🛠️ Expertise & Interests
+Interested in working on projects that combine these technologies.
 
-- **Automation Testing & Quality Assurance**: Extensive experience in designing, developing, and executing automated tests using tools like **Selenium**. My work ensures robust, reliable software systems that meet business requirements.
-
-- **AI/ML/DL**: Actively working on hands-on projects in **AI/ML/DL**, applying my knowledge in real-world scenarios. 
-
-- **SAP**: Currently developing my skills in **SAP**, with a focus on AI and trending technologies integration.
+## 🚀 Projects
+- Automation Projects: [Hands-On](https://github.com/balaji-subburaj/Automation)
+- ML/NLP/DL Projects: [Ground Zero](https://github.com/balaji-subburaj/Ground-zero)
+- Process Automation with Power Automate integration with Microsoft Virtual Agents and Excel for Access and knowledge management.
+- Innovative ideas lined up to be implemented !!!
 
 ## 💼 Professional Experience
-
-- **Associate Test Analyst at Cognizant Technology Solutions (Oct 2023 – Mar 2024)**: Led the end-to-end testing process for data migration projects, focusing on both manual and automated testing methods. Collaborated with cross-functional teams to ensure project success.
-
-- **Programmer Analyst – Junior Test Analyst (Aug 2022 – Sept 2023)**: Engaged in testing and validation of supply chain management systems, contributing to the development of a Microsoft Chat Bot that improved team productivity.
-
-- **Programmer Analyst Trainee (Aug 2021 – Aug 2022)**: Delivered high-quality results in big data projects, mastering tools like **Oracle SQL** and **UNIX commands**. Played a key role in system integration testing across various environments.
-
-## 📚 Education
-
-- **Master of Science in Digital Engineering** - Otto von Guericke University, Magdeburg, Germany (2024 – Present)
-- **Bachelor of Engineering in Mechanical Engineering** - Sri Ramakrishna Engineering College, Tamil Nadu, India (2017 – 2021)
+- **Associate** at Cognizant Technology Solutions (Oct 2023 – Mar 2024)
+- **Programmer Analyst** (Aug 2022 – Sept 2023)
+- **Programmer Analyst Trainee** (Aug 2021 – Aug 2022)
 
 ## 🛠️ Skills
 
@@ -40,12 +31,12 @@
 - **Cloud & Automation**: Microsoft Azure, Selenium, Power Automate
 - **Languages**: English (C1 Advanced - IETLS 8.0), German (Beginner)
 
-
-- 📫 How to reach me **balaji.subburaj17@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/balaji-subburaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/balaji-subburaj" height="30" width="40" /></a>
+<a href="mailto:balaji.subburaj17@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="balaji.subburaj17@gmail.com" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/balaji-subburaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji-subburaj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
