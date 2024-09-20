@@ -22,14 +22,12 @@ Interested in working on projects that combine these technologies.
 - **Programmer Analyst Trainee** (Aug 2021 – Aug 2022)
 
 ## 🛠️ Skills
-
-- **Programming Languages**: Python, Java
-- **Environments**: Eclipse IDE, Jupyter Notebook, Pycharm, VS Code
-- **Analysis/Statistical Tools**: MS Excel (Advanced), Power BI, Adobe Analytics, Minitab
-- **SQL**: Database querying, data manipulation, stored procedures, Data Validation
-- **DATABASES**: MySQL, Oracle, IBM DB2, MS SQL
-- **Cloud & Automation**: Microsoft Azure, Selenium, Power Automate
-- **Languages**: English (C1 Advanced - IETLS 8.0), German (Beginner)
+- Programming Languages: Python, Java
+- Machine Learning & Deep Learning: TensorFlow, Keras, Scikit-learn, PyTorch, NLP (Natural Language Processing), OpenCV
+- Data Science Tools: Pandas, NumPy, Matplotlib, Seaborn
+- Cloud & Automation: Microsoft Azure (AI & ML Services), Power Automate, Google Cloud Platform (GCP)
+- Databases & Querying: MySQL, Oracle, SQL (Advanced), Data Manipulation, Stored Procedures
+- Development Environments: Jupyter Notebook, PyCharm, VS Code, Eclipse IDE
 
 <h3 align="left">📫Connect with me:</h3>
 <p align="left">
