@@ -5,7 +5,6 @@ I'm an M.Sc. Digital Engineering student at Otto-von-Guericke-University with pr
 
 ## 🔭 Interests And Focus
 - Machine Learning and Deep Learning
-- Explainable AI (XAI)
 - SAP
 
 Interested in working on projects that combine these technologies.
