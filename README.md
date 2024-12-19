@@ -3,17 +3,10 @@
 <h3 align="center">Welcome to my GitHub profile!</h3>
 I'm an M.Sc. Digital Engineering student at Otto-von-Guericke-University with professional experience in Software Testing Life Cycle. I'm passionate about learning new technologies through projects.
 
-## 🔭 Interests And Focus
-- Machine Learning and Deep Learning
-- SAP
-
-Interested in working on projects that combine these technologies.
-
 ## 🚀 Projects
 - Automation Projects: [Hands-On](https://github.com/balaji-subburaj/Automation)
 - ML/NLP/DL Projects: [Ground Zero](https://github.com/balaji-subburaj/Ground-zero)
 - Process Automation with Power Automate integration with Microsoft Virtual Agents and Excel for Access and knowledge management.
-- Innovative ideas lined up to be implemented !!!
 
 ## 💼 Professional Experience
 - **Associate** at Cognizant Technology Solutions (Oct 2023 – Mar 2024)
@@ -22,8 +15,7 @@ Interested in working on projects that combine these technologies.
 
 ## 🛠️ Skills
 - Programming Languages: Python, Java
-- Machine Learning & Deep Learning: TensorFlow, Keras, Scikit-learn, PyTorch, NLP (Natural Language Processing), OpenCV
-- Data Science Tools: Pandas, NumPy, Matplotlib, Seaborn
+- Machine Learning & Analysis: TensorFlow, Keras, Scikit-learn, PyTorch, NLP (Natural Language Processing), OpenCV, Tableau, Power BI, Amazon Quicksight
 - Cloud & Automation: Microsoft Azure (AI & ML Services), Power Automate, Selenium, Google Cloud Platform
 - Databases & Querying: MySQL, Oracle, SQL (Advanced), Data Manipulation, Stored Procedures
 - Development Environments: Jupyter Notebook, PyCharm, VS Code, Eclipse IDE
