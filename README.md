@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balaji Subburaj</h1>
 
 <h3 align="center">Welcome to my GitHub profile!</h3>
-I'm an M.Sc. Digital Engineering student at Otto-von-Guericke-University with experience in software development and test  automation, and AI-driven solutions. Skilled in Python, Java, SQL, and data visualization, with hands-on experience in NLP, search result clustering, and chatbot development. Passionate about applying technology to real-world problems and contributing to research-driven projects.
+I'm an M.Sc. Digital Engineering student at Otto-von-Guericke-University with experience in software development and test  automation, and AI-driven solutions. Skilled in Python, Java, SQL, and data visualization. Passionate about applying technology to real-world problems.
 
 ## 🚀 Projects
 - Automation Projects: [Hands-On](https://github.com/balaji-subburaj/Automation)
