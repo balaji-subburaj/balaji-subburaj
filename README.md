@@ -7,6 +7,7 @@ I'm an M.Sc. Digital Engineering student at Otto-von-Guericke-University with ex
 - Automation Projects: [Hands-On](https://github.com/balaji-subburaj/Automation)
 - ML/NLP/DL Projects: [Ground Zero](https://github.com/balaji-subburaj/Ground-zero)
 - Process Automation with Power Automate integration with Microsoft Virtual Agents and Excel for Access and knowledge management.
+- Full stack Web App for Search Result Clustering System using Elasticsearch, Python, Flask, React tech stack.
 
 ## 💼 Professional Experience
 - **Associate** at Cognizant Technology Solutions (Oct 2023 – Mar 2024)
